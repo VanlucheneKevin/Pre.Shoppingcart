@@ -1,0 +1,12 @@
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\bin\Debug\net5.0\Pre.ShoppingCarts.Core.deps.json
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\bin\Debug\net5.0\Pre.ShoppingCarts.Core.dll
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\bin\Debug\net5.0\ref\Pre.ShoppingCarts.Core.dll
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\bin\Debug\net5.0\Pre.ShoppingCarts.Core.pdb
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.csproj.AssemblyReference.cache
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.AssemblyInfoInputs.cache
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.AssemblyInfo.cs
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.csproj.CoreCompileInputs.cache
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.dll
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\ref\Pre.ShoppingCarts.Core.dll
+C:\Howest\Prog expert\Oefeningen\Klassediagrammen\oe.cd.shoppingcart\Pre.ShoppingCarts\Pre.ShoppingCarts.Core\obj\Debug\net5.0\Pre.ShoppingCarts.Core.pdb
